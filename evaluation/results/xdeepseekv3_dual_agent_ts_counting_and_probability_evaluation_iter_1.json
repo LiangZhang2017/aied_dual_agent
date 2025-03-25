@@ -1,0 +1,605 @@
+{
+    "accuracy_list": [
+        {
+            "problem_id": "problem_1003",
+            "ground_truth_answer": "29",
+            "llm_answer": "29",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1005",
+            "ground_truth_answer": "25",
+            "llm_answer": "25",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1009",
+            "ground_truth_answer": "28",
+            "llm_answer": "22",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1010",
+            "ground_truth_answer": "25",
+            "llm_answer": "4 valid arrangements",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1026",
+            "ground_truth_answer": "\\(\\frac{13}{17}\\)",
+            "llm_answer": "\\(\\frac{169}{221}\\)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_103",
+            "ground_truth_answer": "14,400",
+            "llm_answer": "14,400",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1035",
+            "ground_truth_answer": "96",
+            "llm_answer": "96",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1038",
+            "ground_truth_answer": "\\(\\boxed{\\frac{1}{10}}\\)",
+            "llm_answer": "\\(\\frac{1}{10}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1043",
+            "ground_truth_answer": "40",
+            "llm_answer": "40",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1046",
+            "ground_truth_answer": "1440",
+            "llm_answer": "4464",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1053",
+            "ground_truth_answer": "\\boxed{\\frac{2}{27}}",
+            "llm_answer": "\\(\\frac{1}{17}\\)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1062",
+            "ground_truth_answer": "\\dfrac{91}{216}",
+            "llm_answer": "91/216",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1064",
+            "ground_truth_answer": "\\(\\boxed{\\frac{1}{3}}\\)",
+            "llm_answer": "\\(\\frac{1}{3}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1067",
+            "ground_truth_answer": "\\(\\boxed{\\frac{5}{8}}\\)",
+            "llm_answer": "\\( \\left( 1 - \\left( \\frac{1004}{2009} \\right)^2 \\right)^2 + \\left( \\frac{1004}{2009} \\right)^4 \\)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1081",
+            "ground_truth_answer": "\\(\\frac{1}{15}\\)",
+            "llm_answer": "1/15",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1096",
+            "ground_truth_answer": "7",
+            "llm_answer": "7",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1102",
+            "ground_truth_answer": "\\(\\frac{7}{72}\\)",
+            "llm_answer": "2/27",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1117",
+            "ground_truth_answer": "1041",
+            "llm_answer": "1003",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1118",
+            "ground_truth_answer": "\\(\\frac{1}{12}\\)",
+            "llm_answer": "1/12",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_123",
+            "ground_truth_answer": "30",
+            "llm_answer": "30",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_137",
+            "ground_truth_answer": "\\boxed{\\dfrac{5}{162}}",
+            "llm_answer": "\\(\\frac{5}{162}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_152",
+            "ground_truth_answer": "39",
+            "llm_answer": "39",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_159",
+            "ground_truth_answer": "28800",
+            "llm_answer": "28,800",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_164",
+            "ground_truth_answer": "\\(\\frac{67}{89}\\)",
+            "llm_answer": "\\(\\frac{67}{89}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_181",
+            "ground_truth_answer": "19",
+            "llm_answer": "6",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_185",
+            "ground_truth_answer": "5",
+            "llm_answer": "5",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_188",
+            "ground_truth_answer": "\\boxed{\\frac{1}{2}}",
+            "llm_answer": "\\(\\frac{1}{3}\\)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_206",
+            "ground_truth_answer": "\\(\\dfrac{39}{64}\\)",
+            "llm_answer": "\\(\\frac{39}{64}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_210",
+            "ground_truth_answer": "0.076",
+            "llm_answer": "0.076",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_212",
+            "ground_truth_answer": "576",
+            "llm_answer": "576",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_216",
+            "ground_truth_answer": "1940",
+            "llm_answer": "1940",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_233",
+            "ground_truth_answer": "\\(\\frac{9}{32}\\)",
+            "llm_answer": "\\[ \\frac{9}{32} \\]",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_24085",
+            "ground_truth_answer": "50",
+            "llm_answer": "82",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_24567",
+            "ground_truth_answer": "3",
+            "llm_answer": "3",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_25",
+            "ground_truth_answer": "\\(\\boxed{\\frac{209}{210}}\\)",
+            "llm_answer": "\\(\\frac{209}{210}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_25780",
+            "ground_truth_answer": "\\(\\frac{3}{16}\\)",
+            "llm_answer": "\\(\\frac{3}{8}\\)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_263",
+            "ground_truth_answer": "\\(\\frac{781}{1024}\\)",
+            "llm_answer": "0.7627",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_277",
+            "ground_truth_answer": "1680",
+            "llm_answer": "1680",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_279",
+            "ground_truth_answer": "\\(\\frac{3}{5}\\)",
+            "llm_answer": "2/5",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_295",
+            "ground_truth_answer": "80",
+            "llm_answer": "67",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_367",
+            "ground_truth_answer": "\\boxed{\\frac{37}{819}}",
+            "llm_answer": "\\(\\frac{37}{819}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_381",
+            "ground_truth_answer": "48",
+            "llm_answer": "48",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_392",
+            "ground_truth_answer": "\\(\\pi - 2\\)",
+            "llm_answer": "\\[ \\pi - 2 \\]",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_396",
+            "ground_truth_answer": "\\(\\frac{625}{648}\\)",
+            "llm_answer": "0.9646",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_4",
+            "ground_truth_answer": "14",
+            "llm_answer": "14",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_405",
+            "ground_truth_answer": "\\(\\frac{27}{512}\\)",
+            "llm_answer": "\\[ \\frac{27}{512} \\]",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_413",
+            "ground_truth_answer": "\\(\\frac{40}{243}\\)",
+            "llm_answer": "The final answer is \\( \\frac{40}{243} \\).",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_416",
+            "ground_truth_answer": "28",
+            "llm_answer": "28",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_419",
+            "ground_truth_answer": "\\(\\frac{11}{16}\\)",
+            "llm_answer": "\\(\\frac{11}{16}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_427",
+            "ground_truth_answer": "4",
+            "llm_answer": "4",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_48",
+            "ground_truth_answer": "\\(\\frac{73}{100}\\)",
+            "llm_answer": "37/50",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_483",
+            "ground_truth_answer": "\\(\\frac{1}{2}\\)",
+            "llm_answer": "1/2",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_485",
+            "ground_truth_answer": "36",
+            "llm_answer": "36",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_494",
+            "ground_truth_answer": "4",
+            "llm_answer": "(4), (3, 1), (2, 2), (2, 1, 1)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_506",
+            "ground_truth_answer": "14",
+            "llm_answer": "14",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_520",
+            "ground_truth_answer": "\\(\\frac{295}{396}\\)",
+            "llm_answer": "\\(\\frac{295}{396}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_528",
+            "ground_truth_answer": "\\boxed{\\frac{47}{1001}}",
+            "llm_answer": "\\(\\frac{47}{1001}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_545",
+            "ground_truth_answer": "512",
+            "llm_answer": "512",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_551",
+            "ground_truth_answer": "\\(\\frac{2}{3}\\)",
+            "llm_answer": "7/9",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_559",
+            "ground_truth_answer": "\\(\\frac{35}{128}\\)",
+            "llm_answer": "0.2734375",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_564",
+            "ground_truth_answer": "\\(\\frac{80}{243}\\)",
+            "llm_answer": "\\(\\frac{80}{243}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_568",
+            "ground_truth_answer": "5120",
+            "llm_answer": "5,120",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_598",
+            "ground_truth_answer": "968",
+            "llm_answer": "968",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_604",
+            "ground_truth_answer": "8.5",
+            "llm_answer": "8.5",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_614",
+            "ground_truth_answer": "\\(\\frac{3}{4}\\)",
+            "llm_answer": "\\(\\frac{3}{4}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_636",
+            "ground_truth_answer": "\\(\\dfrac{1904}{6561}\\)",
+            "llm_answer": "\\(\\frac{1904}{6561}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_650",
+            "ground_truth_answer": "126",
+            "llm_answer": "126",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_670",
+            "ground_truth_answer": "\\(\\frac{5}{16}\\)",
+            "llm_answer": "The probability is 0.",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_695",
+            "ground_truth_answer": "200",
+            "llm_answer": "200",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_697",
+            "ground_truth_answer": "20160",
+            "llm_answer": "32,760",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_710",
+            "ground_truth_answer": "\\(\\frac{20}{27}\\)",
+            "llm_answer": "\\( \\frac{20}{27} \\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_714",
+            "ground_truth_answer": "\\dfrac{5}{7}",
+            "llm_answer": "5/7",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_731",
+            "ground_truth_answer": "\\(\\boxed{\\frac{1}{2}}\\)",
+            "llm_answer": "The final answer is \\(\\frac{1}{4}\\).",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_732",
+            "ground_truth_answer": "\\(\\frac{507}{595}\\)",
+            "llm_answer": "\\(\\frac{177,957}{433,160}\\)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_762",
+            "ground_truth_answer": "\\(\\boxed{\\frac{1}{12}}\\)",
+            "llm_answer": "\\(\\frac{\\pi}{36}\\)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_765",
+            "ground_truth_answer": "110",
+            "llm_answer": "110",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_78",
+            "ground_truth_answer": "50",
+            "llm_answer": "50",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_789",
+            "ground_truth_answer": "\\boxed{\\frac{11}{32}}",
+            "llm_answer": "\\(\\frac{1}{2}\\)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_790",
+            "ground_truth_answer": "\\dfrac{72}{425}",
+            "llm_answer": "\\( \\frac{72}{425} \\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_849",
+            "ground_truth_answer": "180",
+            "llm_answer": "180",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_855",
+            "ground_truth_answer": "31",
+            "llm_answer": "26",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_860",
+            "ground_truth_answer": "\\(\\boxed{\\frac{23}{36}}\\)",
+            "llm_answer": "23/36",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_861",
+            "ground_truth_answer": "\\(\\frac{12}{5,\\!525}\\)",
+            "llm_answer": "\\(\\frac{2}{9}\\)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_862",
+            "ground_truth_answer": "14",
+            "llm_answer": "14",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_867",
+            "ground_truth_answer": "84",
+            "llm_answer": "The final answer is 36.",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_870",
+            "ground_truth_answer": "\\(\\frac{1}{3}\\)",
+            "llm_answer": "1/3",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_876",
+            "ground_truth_answer": "\\dfrac{47}{144}",
+            "llm_answer": "\\(\\frac{49}{144}\\)",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_889",
+            "ground_truth_answer": "420",
+            "llm_answer": "420",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_894",
+            "ground_truth_answer": "540",
+            "llm_answer": "540",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_898",
+            "ground_truth_answer": "\\(\\boxed{\\frac{9}{32}}\\)",
+            "llm_answer": "9/32",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_930",
+            "ground_truth_answer": "147",
+            "llm_answer": "147",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_935",
+            "ground_truth_answer": "29700",
+            "llm_answer": "1350",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_936",
+            "ground_truth_answer": "\\(\\frac{52}{3}\\)",
+            "llm_answer": "17.33",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_939",
+            "ground_truth_answer": "35",
+            "llm_answer": "35",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_951",
+            "ground_truth_answer": "\\(\\frac{3}{28}\\)",
+            "llm_answer": "\\(\\frac{3}{28}\\)",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_956",
+            "ground_truth_answer": "\\(\\boxed{\\frac{9}{32}}\\)",
+            "llm_answer": "\\[ \\frac{9}{32} \\]",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_967",
+            "ground_truth_answer": "\\(\\dfrac{7}{20}\\)",
+            "llm_answer": "1/4",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_970",
+            "ground_truth_answer": "20",
+            "llm_answer": "9",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_990",
+            "ground_truth_answer": "28",
+            "llm_answer": "48",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_998",
+            "ground_truth_answer": "\\(\\frac{3}{4}\\)",
+            "llm_answer": "0.625",
+            "accuracy": "Incorrect"
+        }
+    ],
+    "correct_percentage": 67.0
+}

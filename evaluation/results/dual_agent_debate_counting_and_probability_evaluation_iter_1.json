@@ -1,0 +1,405 @@
+{
+    "accuracy_list": [
+        {
+            "problem_id": "problem_1003",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1005",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1009",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1010",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1026",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_103",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1035",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1038",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1043",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1046",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1053",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1062",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1064",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1067",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1081",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1096",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1102",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_1117",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_1118",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_123",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_137",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_152",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_159",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_164",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_181",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_185",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_188",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_206",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_210",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_212",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_216",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_233",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_24085",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_24567",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_25",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_25780",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_263",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_277",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_279",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_295",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_367",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_381",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_392",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_396",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_4",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_405",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_413",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_416",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_419",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_427",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_48",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_483",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_485",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_494",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_506",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_520",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_528",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_545",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_551",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_559",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_564",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_568",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_598",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_604",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_614",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_636",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_650",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_670",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_695",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_697",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_710",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_714",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_731",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_732",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_762",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_765",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_78",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_789",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_790",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_849",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_855",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_860",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_861",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_862",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_867",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_870",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_876",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_889",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_894",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_898",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_930",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_935",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_936",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_939",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_951",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_956",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_967",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_970",
+            "accuracy": "Correct"
+        },
+        {
+            "problem_id": "problem_990",
+            "accuracy": "Incorrect"
+        },
+        {
+            "problem_id": "problem_998",
+            "accuracy": "Correct"
+        }
+    ],
+    "correct_percentage": 57.0
+}
